@@ -3,7 +3,9 @@ Simple Linux Tail program implementation in c
 
 # Options:
 -n number
+
 +number
+
 -c number | -number | +number
 
 # How to use it:
